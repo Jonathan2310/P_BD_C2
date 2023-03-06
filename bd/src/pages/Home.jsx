@@ -1,5 +1,5 @@
-import Title from "../atoms/Title";
-import Button from "../atoms/Button";
+import Title from "../components/atoms/Title";
+import Button from "../components/atoms/Button";
 
 function Home() {
     return ( 
